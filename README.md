@@ -1,2 +1,2 @@
 # holy-rubbish
-My first freestyle repo
+My first public repo
